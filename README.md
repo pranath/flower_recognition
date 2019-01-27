@@ -4,7 +4,7 @@ In this project, I will develop a deep learning image classifier to recognize di
 
 The project has two parts:
 
-1. Develop image classifier (in this jupyter notebook)
+1. Develop image classifier (in jupyter notebook image_classifier.ipynb)
 2. Deploy image classifier (in python command line applications, included in this git repo)
 
 In part 1 where we will develop our classifier, we will use the following steps:
