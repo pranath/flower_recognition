@@ -24,10 +24,10 @@ In part 2, I will then convert the work done in part 1 into two python command l
 
 This project used the Pytorch library, and achieved a test accuracy of 73%.
 
-### [Project 2 - November 2019](http://localhost:8888/notebooks/image-classifier-v2.ipynb)
+### [Project 2 - November 2019](https://github.com/pranath/flower_recognition/blob/master/image-classifier-v2.ipynb)
 
 This project used the FastAi library, and achieved a test accuracy of 93%.
 
-### [Project 3 - May 2020](http://localhost:8888/notebooks/image-classifier-v3.ipynb)
+### [Project 3 - May 2020](https://github.com/pranath/flower_recognition/blob/master/image-classifier-v3.ipynb)
 
 This project used to best model architecture from Project 2 and used it to explore how convolutions work. In particular I explore how basic convolutions work, as well as looking at how final layer convolutions can be examined (using their activations) to gain a better understanding of what the model considers important in the flower image for making its predictions.
