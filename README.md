@@ -31,3 +31,7 @@ This project used the FastAi library, and achieved a test accuracy of 93%.
 ### [Project 3 - May 2020](https://github.com/pranath/flower_recognition/blob/master/image_classifier_v3.ipynb)
 
 This project used to best model architecture from Project 2 and used it to explore how convolutions work. In particular I explore how basic convolutions work, as well as looking at how final layer convolutions can be examined (using their activations) to gain a better understanding of what the model considers important in the flower image for making its predictions.
+
+### [Project 4 - March 2021](https://github.com/pranath/flower_recognition/blob/master/image-classifier-v4.ipynb)
+
+This project used the FastAi library version 2, and achieved a test accuracy of 89%.
